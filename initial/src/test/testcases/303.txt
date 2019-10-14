@@ -1,0 +1,3 @@
+
+        float math_score[5], phys_score, chem_score;
+        

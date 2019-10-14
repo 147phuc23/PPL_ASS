@@ -1,0 +1,6 @@
+
+        int std_id;
+        float sem_score;
+        boolean isStudent;
+        string myString;
+        
