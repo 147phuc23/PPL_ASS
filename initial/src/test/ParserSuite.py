@@ -2,13 +2,15 @@ import unittest
 from TestUtils import TestParser
 
 class ParserSuite(unittest.TestCase):
-    def test_declaration_1(self):
-        #test-case 0
-        input = """
-        int main() { }
-        """
-        expect = "successful"
-        self.assertTrue(TestParser.checkParser(input,expect,200))
+#     def test_declaration_1(self):
+#         #test-case 0
+#         input = """
+#         int main() { 
+#             a = (((((a)))));
+#         }
+#         """
+#         expect = "successful"
+#         self.assertTrue(TestParser.checkParser(input,expect,200))
 
 #     def test_declaration_2(self):
 #         #test-case 1

@@ -1,7 +1,4 @@
 
-        int x, y;
-        void main(){
-            //nothing in block
-        }
-        string z;
+        float[] main(){}
+        int a() {}
         

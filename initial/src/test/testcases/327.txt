@@ -1,14 +1,5 @@
 
-        void main(){
-            int i[5];
-            boolean check;
-            do{
-                int count;
-                count = 0;
-                if(count != 0)
-                    break;
-                count = count*count;
-                {}
-            } while count == 0;
+        int main(){
+            do 1-2; while (foo(2));
         }
         

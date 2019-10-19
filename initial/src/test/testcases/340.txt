@@ -1,0 +1,10 @@
+
+        int main(){
+            for (true; a; k) {
+                {
+                    int n, i[2];
+                    if (i<2) a[2] + 8;
+                }
+            }
+        }
+        

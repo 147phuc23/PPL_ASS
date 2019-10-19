@@ -1,4 +1,5 @@
 
-        float[] main1() {}
-        boolean[] main2() {}
+        void main() {
+            int a, b, c[9];
+        }
         

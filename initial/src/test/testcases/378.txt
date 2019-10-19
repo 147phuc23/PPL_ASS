@@ -1,0 +1,10 @@
+
+        void main(){
+            foo(x,y,z);
+        }  
+        int[] foo(float x, float y, float z) {
+            float list[3];
+            list = x + y + z + 0.e12;
+            return list;
+        }
+        

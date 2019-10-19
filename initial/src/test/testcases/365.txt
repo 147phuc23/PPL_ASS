@@ -1,0 +1,5 @@
+
+        float[] foo(int a[]) {
+            a = a[a[foo(a)]*(b+c)];
+        }
+        

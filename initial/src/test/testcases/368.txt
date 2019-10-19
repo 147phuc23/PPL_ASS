@@ -1,0 +1,5 @@
+
+        float foo() {
+            return (____a+___b)[2];
+        }
+        

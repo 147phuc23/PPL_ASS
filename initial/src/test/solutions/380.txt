@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],VoidType(),Block([VarDecl('x',BoolType()),BinaryOp('=',Id('x'),BooleanLiteral(False)),If(CallExpr(Id('isEq1'),[Id('a')]),BinaryOp('=',Id('x'),BooleanLiteral(True)))])),FuncDecl(Id('isEq1'),[VarDecl('a',IntType())],BoolType(),Block([If(BinaryOp('==',Id('a'),IntLiteral(1)),Return(BooleanLiteral(True)))]))])

@@ -1,1 +1,1 @@
-Program([VarDecl(my_Arr,ArrayType(IntType,0)),VarDecl(my_Arr,ArrayType(IntType,1)),VarDecl(my_Arr,ArrayType(IntType,2))])
+Program([VarDecl('x',ArrayType(3,FloatType())),VarDecl('y',ArrayType(0,FloatType())),VarDecl('a',ArrayType(3,StringType()))])

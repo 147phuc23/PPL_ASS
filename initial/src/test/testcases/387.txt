@@ -1,0 +1,10 @@
+
+        int main(){
+            for (a;b;c) {
+                if (123) return false;
+            }
+            return;
+        }  
+        int a, b;
+
+        

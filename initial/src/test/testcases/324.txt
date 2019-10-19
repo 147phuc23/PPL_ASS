@@ -1,5 +1,5 @@
 
-        void main(){
-            do i =5; j = 5; k = 5; while b>=0;
-        }
+        void main(int argc, int argv){
+            if (12) 90; else 12;
+        }   
         

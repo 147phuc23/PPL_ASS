@@ -1,1 +1,1 @@
-Program([VarDecl(alpha,IntType),VarDecl(alpha,IntType),VarDecl(beta,IntType),VarDecl(gama,IntType)])
+Program([VarDecl('a',IntType()),VarDecl('b',IntType())])

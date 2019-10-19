@@ -1,6 +1,13 @@
 
         int main(){
-            for (i = 0; i < alpha; i = i + 1){}
-            for (i; j; k) {}
+            do {}
+                3;
+                12;
+                do {}
+                3;
+                12;
+            while (1+2);
+            while true;
+
         }
         

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([CallExpr(Id('check'),[CallExpr(Id('check'),[CallExpr(Id('check'),[ArrayCell(CallExpr(Id('check'),[]),IntLiteral(12))])])])]))])

@@ -1,4 +1,3 @@
 
-        int alpha;
-        int alpha, beta, gama;
+        int a,b;
         

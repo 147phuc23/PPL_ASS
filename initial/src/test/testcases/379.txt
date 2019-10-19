@@ -1,0 +1,7 @@
+
+        void x() 
+        
+        {{
+            do (print("12")); if (2+2==3) do x; while i; while true;
+        }}
+        

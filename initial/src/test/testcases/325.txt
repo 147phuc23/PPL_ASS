@@ -1,5 +1,6 @@
 
-        void main(){
-        do do {{if(a){}}} while 5 == 0 ; while 5 >= 10 ;
+        int main(){
+            do foo();
+            while (1+1);
         }
         

@@ -1,1 +1,1 @@
-Program([FuncDecl(Id(main),[],IntType,Block([For(BinaryOp(=,Id(i),IntLiteral(0));BinaryOp(<,Id(i),Id(alpha));BinaryOp(=,Id(i),BinaryOp(+,Id(i),IntLiteral(1)));Block([])),Return(IntLiteral(0))]))])
+Program([FuncDecl(Id('main'),[VarDecl('argc',IntType()),VarDecl('argv',FloatType())],IntType(),Block([Dowhile([IntLiteral(3),IntLiteral(12)],BooleanLiteral(True))]))])

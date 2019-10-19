@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('callback',IntType()),BinaryOp('-',BinaryOp('+',CallExpr(Id('callback'),[StringLiteral('2')]),BinaryOp('/',IntLiteral(3),IntLiteral(4))),IntLiteral(5))]))])

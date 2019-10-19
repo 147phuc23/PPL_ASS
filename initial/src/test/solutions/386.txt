@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([BinaryOp('+',CallExpr(Id('commit'),[IntLiteral(12)]),IntLiteral(9)),Block([VarDecl('str1',StringType()),VarDecl('strs',ArrayType(0,StringType())),Break()])]))])

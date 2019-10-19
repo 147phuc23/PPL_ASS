@@ -1,0 +1,9 @@
+
+        int main(){
+            commit(12) + 9;
+            {
+                string str1, strs[0];
+                break;
+            }
+        }
+        

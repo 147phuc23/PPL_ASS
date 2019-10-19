@@ -1,0 +1,18 @@
+
+        void main(){
+            int test, booltrue;
+            test=f();
+            putIntLn(test);
+            {
+                int i;
+                int test;
+                int f;
+                test=f=i=100;
+                putIntLn(i);
+                putIntLn(test);
+                putIntLn(f);
+
+            }
+            putIntLn(test);
+        }
+        

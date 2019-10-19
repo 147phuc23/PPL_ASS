@@ -1,0 +1,8 @@
+
+        int main(){
+            print(foo());
+        }   
+        int[] foo(int a) {
+            if (a&&b&&c) do printf("a==b==c"); while x=x+1;
+        }
+        

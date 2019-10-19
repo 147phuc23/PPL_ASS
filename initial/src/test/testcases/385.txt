@@ -1,0 +1,9 @@
+
+        int main() {
+                a = b + c;
+                for (a; b; c) {
+                    printf("this is a typical stringn");
+                }
+                do return; while 1;
+            }
+        

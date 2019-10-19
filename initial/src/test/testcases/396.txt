@@ -1,0 +1,9 @@
+
+        int main(){
+            boolean check;
+            if(!check) print(check);
+            else {
+                print(!check);
+            }                  
+        }
+        

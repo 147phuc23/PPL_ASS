@@ -1,3 +1,5 @@
 
-        int i; float j; string k;
+        int main() {
+
+        }
         

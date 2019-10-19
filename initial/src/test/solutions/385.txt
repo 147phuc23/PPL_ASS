@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([BinaryOp('=',Id('a'),BinaryOp('+',Id('b'),Id('c'))),For(Id('a'),Id('b'),Id('c'),Block([CallExpr(Id('printf'),[StringLiteral('this is a typical stringn')])])),Dowhile([Return()],IntLiteral(1))]))])

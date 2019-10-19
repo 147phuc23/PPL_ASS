@@ -1,5 +1,5 @@
 
-        void main(){
-            do {{{int i;}}} while b<0;
+        float main(){
+            if( anhiuem ) if ( anhgiau ) emlayanh(); else emthichanh(); else cutmemdi();
         }
         

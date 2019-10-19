@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([For(Id('a'),Id('b'),Id('c'),Block([If(IntLiteral(123),Return(BooleanLiteral(False)))])),Return()])),VarDecl('a',IntType()),VarDecl('b',IntType())])

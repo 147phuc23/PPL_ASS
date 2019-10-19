@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([For(BooleanLiteral(True),Id('a'),Id('k'),Block([Block([VarDecl('n',IntType()),VarDecl('i',ArrayType(2,IntType())),If(BinaryOp('<',Id('i'),IntLiteral(2)),BinaryOp('+',ArrayCell(Id('a'),IntLiteral(2)),IntLiteral(8)))])]))]))])

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('a',FloatType()),VarDecl('b',FloatType()),VarDecl('c',FloatType()),Break(),For(Id('a'),IntLiteral(1),IntLiteral(1),Dowhile([CallExpr(Id('print'),[StringLiteral('a')]),CallExpr(Id('close'),[])],Id('c'))),BinaryOp('=',Id('c'),BinaryOp('/',BinaryOp('*',IntLiteral(9),IntLiteral(2)),IntLiteral(3))),Return(IntLiteral(12))]))])

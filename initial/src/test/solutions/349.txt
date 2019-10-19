@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('str',StringType()),BinaryOp('=',Id('str'),BinaryOp('+',StringLiteral('1+2/3*4'),StringLiteral('23')))]))])

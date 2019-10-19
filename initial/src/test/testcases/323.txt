@@ -1,6 +1,8 @@
 
-        void main(){
-            do i = 5; while b<=0;
-            do j = 5; while b>=0;
+        int main(){
+            if (true) {
+                if (true) return true;
+                else if(false) return 1;
+            }
         }
         

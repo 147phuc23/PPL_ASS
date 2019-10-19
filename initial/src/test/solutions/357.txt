@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([BinaryOp('==',BinaryOp('+',StringLiteral('12376aKLASHD'),StringLiteral('hello World__')),IntLiteral(3))]))])

@@ -1,0 +1,5 @@
+
+        int a  () {
+            foo(foo_89("stringlit")[12]);
+        }
+        

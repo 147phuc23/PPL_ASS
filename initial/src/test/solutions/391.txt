@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('link_',IntType()),VarDecl('str',IntType()),CallExpr(Id('print'),[StringLiteral('http://localhost:8000:7171')]),Return(CallExpr(Id('foo'),[IntLiteral(12)]))]))])

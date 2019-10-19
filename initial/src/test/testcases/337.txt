@@ -1,0 +1,8 @@
+
+        int main(){
+            for (a=1;a<2;a=a+1) 
+            for (i;i<2;i+2) 
+            for (a=1;a<2;a=a+1) 
+            for (i;i<2;i+2) printf("a",b);
+        }
+        

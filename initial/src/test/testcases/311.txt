@@ -1,6 +1,6 @@
 
-        boolean checksum(boolean etc, boolean check[])
-        {
-            	
+        void main() {}
+        float a() {
+            {}
         }
         

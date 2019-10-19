@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[],IntType(),Block([VarDecl('socket',IntType()),IntLiteral(12),If(BinaryOp('=',Id('socket'),Id('connect')),Return(Id('done')),Return(Id('not_done')))]))])

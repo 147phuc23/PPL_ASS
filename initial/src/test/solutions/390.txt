@@ -1,0 +1,1 @@
+Program([FuncDecl(Id('main'),[VarDecl('a',ArrayPointerType(IntType()))],ArrayPointerType(IntType()),Block([CallExpr(Id('google'),[IntLiteral(12)]),CallExpr(Id('print'),[StringLiteral('http://facebook.com')])]))])

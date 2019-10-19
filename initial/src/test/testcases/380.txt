@@ -1,0 +1,10 @@
+
+        void main(){
+            boolean x;
+            x = false;
+            if (isEq1(a)) x = true;
+        }  
+        boolean isEq1(int a) {
+            if (a==1) return true;
+        }
+        

@@ -1,7 +1,5 @@
 
-        void main(){
-            do {} {} {} {} {} {}
-            {}
-            while a == b ;
+        int main(){
+            if (!!a) if (b) foo(2); else foo1();
         }
         

@@ -1,0 +1,8 @@
+
+        int main(){
+            do foo (); {
+                sayhaha();
+            }
+            while i();
+        }
+        

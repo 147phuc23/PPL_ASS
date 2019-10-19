@@ -1,1 +1,1 @@
-Program([VarDecl(i,IntType),VarDecl(j,FloatType),VarDecl(k,StringType)])
+Program([FuncDecl(Id('main'),[],IntType(),Block([]))])

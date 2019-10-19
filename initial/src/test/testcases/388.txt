@@ -1,0 +1,5 @@
+
+        int main(){
+            check(check(check(check()[12])));
+        }
+        

@@ -1,3 +1,5 @@
 
-        int[] main(string a[], float b[], boolean c){}
+        int[] main(int a[]){
+            return;
+        }
         

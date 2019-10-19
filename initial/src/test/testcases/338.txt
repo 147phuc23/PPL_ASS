@@ -1,0 +1,7 @@
+
+        int main(){
+            {
+                for(foo();in();12+3) true;
+            }
+        }
+        

@@ -1,0 +1,9 @@
+
+        int main(){
+            int a, b[2];
+            for (i;i<10;i=i+2) print("in so thu: %d ", a);
+            if (a==3) return true;
+            else {print(false); return reu;}
+            return 12;
+        }
+        

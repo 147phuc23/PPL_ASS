@@ -1,0 +1,7 @@
+
+        int main(){
+            int a,b,i[2];
+            foo(12,3,4+5,"as");
+            for (a;b;c) printf(a,b,c);
+        }
+        

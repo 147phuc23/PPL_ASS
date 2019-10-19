@@ -1,0 +1,9 @@
+
+        int b;
+        boolean foo(int a) {
+            if (a==2) return true;
+        }
+        int main(){
+            foo(1)*2==3;
+        }
+        

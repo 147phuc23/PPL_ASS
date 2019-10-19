@@ -1,9 +1,4 @@
 
-        void main(){
-            if ( a && b )
-                if( a || b )
-                    a || b ;
-            else
-                a && b ;
+        int intlit(int c, int b[]){
         }
         

@@ -1,0 +1,6 @@
+
+        int main(){
+            int callback;
+            callback("2") + 3/4 - 5;
+        }
+        

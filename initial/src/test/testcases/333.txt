@@ -1,3 +1,6 @@
 
-
+        int main(){
+            do int a,b,c;
+            while true;
+        }
         

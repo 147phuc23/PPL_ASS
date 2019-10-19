@@ -1,0 +1,9 @@
+
+        int main(){
+            float a,b,c;
+            break;
+            for(a;1;1) do print("a"); close(); while c;
+            c = 9*2/3;
+            return 12;
+        }
+        

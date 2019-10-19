@@ -1,8 +1,6 @@
 
-        int[] main(){
-        do {
-            do {//
-} while ( a < 0);
-        } while a == b ;
+        int main(){
+            if (foo() && true) 
+            if (ui) if (0) if (isValid()) foo1();
         }
         

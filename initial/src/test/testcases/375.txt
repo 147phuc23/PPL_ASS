@@ -1,0 +1,21 @@
+
+        /*void enter()
+        {
+        }
+
+        void init()
+        {
+            {}
+        }
+
+        void print()
+        {
+        }
+        */
+        int main()
+        {
+            enter()
+            init();
+            print();
+        }
+        
